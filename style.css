@@ -1,10 +1,63 @@
 * {
-    background-color: grey;
+    background-color: #204290;
     color: white;
 }
 
-h1 {
+img {
+    width: 10rem;
+}
+
+.linkedin {
+    padding-left: 15px;
+    width: 5rem;
+}
+.github {
+    width: 5rem;
+}
+
+.cv {
+    text-align: center;
+    font-size: 20px;
+}
+
+.redes {
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    font-size: 20px;
+}
+
+.contacto {
+    text-align: center; 
+    font-size: 20px;
+}
+
+.presentacion {
+    width: 40%;
+    border: white solid;
+    padding: 1rem;
+    margin: 15px;
+    margin-left: 5rem;
+}
+
+.yo {
     text-align: center;
 }
 
+.experiencia {
+    width: 40%;
+    border: white solid;
+    padding: 1rem;
+    margin: 15px;
+    
+}
+
+.container {
+    display: flex;
+    position: relative;
+}
+
+.resumen {
+    font-size: 20px;
+}
 
